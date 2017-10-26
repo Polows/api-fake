@@ -1,0 +1,140 @@
+{
+    "employees": [{
+        "id": 25750103,
+        "firstName": "Prudence",
+        "lastName": "Dietrich",
+        "email": "Else16@hotmail.com",
+        "phone": "(467) 690-3204 x995",
+        "city": "New Jarrettstad"
+    }, {
+        "id": 97998783,
+        "firstName": "Adeline",
+        "lastName": "Veum",
+        "email": "Agustin_Conroy@yahoo.com",
+        "phone": "(826) 181-4495 x63106",
+        "city": "Hackettport"
+    }, {
+        "id": 56127964,
+        "firstName": "Fredy",
+        "lastName": "Hane",
+        "email": "Lamont.Bins@gmail.com",
+        "phone": "(180) 091-5121",
+        "city": "East Kailey",
+        "address": "423 Torphy Station"
+    }, {
+        "id": 85794634,
+        "firstName": "Lorna",
+        "lastName": "Osinski",
+        "email": "Alize.Dooley@hotmail.com",
+        "phone": "228-054-4351",
+        "city": "Jillianshire",
+        "address": "060 Shania Terrace"
+    }, {
+        "id": 33273683,
+        "firstName": "Alanis",
+        "lastName": "O'Conner",
+        "email": "Adele.Barrows95@yahoo.com",
+        "phone": "1-900-480-7268",
+        "city": "South Jaycetown",
+        "address": "0248 Ashly Drive"
+    }, {
+        "id": 66663017,
+        "firstName": "Mack",
+        "lastName": "Rolfson",
+        "email": "Evie.Armstrong55@gmail.com",
+        "phone": "(826) 194-8258 x17642",
+        "city": "East Madisyn",
+        "address": "426 Morissette Lane"
+    }, {
+        "id": 55350738,
+        "firstName": "Ryan",
+        "lastName": "Grant",
+        "email": "Brannon1@yahoo.com",
+        "phone": "003-306-8969",
+        "city": "Abshiremouth",
+        "address": "97386 Haley Island"
+    }, {
+        "id": 1924663,
+        "firstName": "Newell",
+        "lastName": "Wilderman",
+        "email": "Cydney.Frami@gmail.com",
+        "phone": "117-992-4510 x180",
+        "city": "Coraland"
+    }, {
+        "id": 74039869,
+        "firstName": "Tia",
+        "lastName": "Larkin",
+        "email": "Lempi39@gmail.com",
+        "phone": "923.933.5418 x722",
+        "city": "East Davontefurt",
+        "address": "236 Isabell Tunnel"
+    }, {
+        "id": 90985868,
+        "firstName": "Elza",
+        "lastName": "McDermott",
+        "email": "Dulce.OReilly@gmail.com",
+        "phone": "(463) 610-4755 x463",
+        "city": "Lake Lavonburgh",
+        "address": "7823 Olson Center"
+    }, {
+        "id": 87713322,
+        "firstName": "Estrella",
+        "lastName": "Hyatt",
+        "email": "Hulda85@hotmail.com",
+        "phone": "1-118-854-0665 x6200",
+        "city": "Maudieton",
+        "address": "253 Ratke Mission"
+    }, {
+        "id": 82656456,
+        "firstName": "Elizabeth",
+        "lastName": "Labadie",
+        "email": "Liza59@gmail.com",
+        "phone": "396-302-0758",
+        "city": "West Theronmouth"
+    }, {
+        "id": 66876818,
+        "firstName": "Julio",
+        "lastName": "Will",
+        "email": "Cletus_Halvorson@yahoo.com",
+        "phone": "216.866.5863",
+        "city": "Port Akeemmouth"
+    }, {
+        "id": 7290196,
+        "firstName": "Daniella",
+        "lastName": "Altenwerth",
+        "email": "Alexane.Heller@hotmail.com",
+        "phone": "(332) 277-5103 x276",
+        "city": "Irvingfort",
+        "address": "65993 Herman Villages"
+    }, {
+        "id": 33215702,
+        "firstName": "Daniella",
+        "lastName": "Hand",
+        "email": "Iva_Jast26@gmail.com",
+        "phone": "1-337-641-0334",
+        "city": "Schambergerfurt",
+        "address": "70496 Brown Mount"
+    }, {
+        "id": 61545974,
+        "firstName": "Carli",
+        "lastName": "Wilderman",
+        "email": "Ciara.Hermann40@gmail.com",
+        "phone": "(146) 345-7006",
+        "city": "East Tyshawnhaven",
+        "address": "349 Jacobs Landing"
+    }, {
+        "id": 59479882,
+        "firstName": "Hattie",
+        "lastName": "Turner",
+        "email": "Citlalli78@hotmail.com",
+        "phone": "181.449.5052",
+        "city": "Gerhardstad"
+    }, {
+        "id": 64545532,
+        "firstName": "Elwin",
+        "lastName": "Jacobson",
+        "email": "Cristina28@hotmail.com",
+        "phone": "760-881-3603 x8401",
+        "city": "Rosenbaumfurt"
+    }]
+}
