@@ -3,7 +3,7 @@ var faker = require('faker')
 
 function generateEmployees() {
     var employees = [];
-    faker.locale = "es_MX";
+    
     for (var id = 0; id < 50; id++) {
         const firstName = faker.name.firstName();
         const lastName = faker.name.lastName();
